@@ -11,7 +11,7 @@ window.SITE = {
   developer: "mpsparki012",
 
   /* --- Contact (shown on every page + privacy policy) --- */
-  contactEmail: "REPLACE-WITH-YOUR-EMAIL@gmail.com",
+  contactEmail: "mpsparki012@gmail.com",
 
   /* --- Tester signup --------------------------------------
      Option A (Google Group): paste the group link below.
@@ -20,7 +20,7 @@ window.SITE = {
        (empty quotes). Step 1 then becomes "Send me your Gmail"
        and the email arrives in your inbox for you to add.
   ---------------------------------------------------------- */
-  groupUrl: "https://groups.google.com/g/REPLACE-WITH-YOUR-GROUP-NAME",
+  groupUrl: "https://groups.google.com/g/notepans-testing",
 
   /* These two are built from packageId. Only change them if Play gives you
      a different opt-in link (Play Console → Testing → Closed testing → Testers → Copy link). */
